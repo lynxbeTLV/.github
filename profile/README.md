@@ -3,8 +3,7 @@
 
 
 ## Hi there 👋
-lynxbe
-+972526090444
+info@lynxbe.co.il
 
 <!--
 
