@@ -7,10 +7,10 @@ LYNXBE TLV
 
 - [x] Android
 - [x] Iphone 
-- [ ] Web
-- [ ] MacOs
-- [ ] Windows
-- [ ] Linux
+- [x] Web
+- [x] MacOs
+- [x] Windows
+- [x] Linux
 
 info@lynxbe.co.il
 
