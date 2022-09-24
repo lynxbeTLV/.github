@@ -1,8 +1,17 @@
 <!--![IMAGE_DESCRIPTION]((https://drive.google.com/file/d/12vvWZlYKEL2cBFzPcdqNeBLEzt3iEcsg/view?usp=sharing))
 -->
-
-
 ## Hi there 👋
+
+LYNXBE TLV
+### We developed in these platforms. 
+
+- [x] Android
+- [x] Iphone 
+- [ ] Web
+- [ ] MacOs
+- [ ] Windows
+- [ ] Linux
+
 info@lynxbe.co.il
 
 <!--
