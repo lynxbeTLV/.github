@@ -1,5 +1,5 @@
 LYNXBE TLV
-### We developed these platforms. 
+### We developed in these platforms. 
 
 - [x] Android
 - [x] Iphone 
